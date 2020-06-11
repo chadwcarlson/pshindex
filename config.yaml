@@ -8,7 +8,7 @@
   destination: "output/docs.json"
 
 # Community Site
-- name: discourse
+- name: community
   type: discourse
   rank: 4
   url: "https://community.platform.sh/"
@@ -18,7 +18,7 @@
     # - "Activity Scripts"
 
 # API Documentation (OpenAPI 3.0 Spec)
-- name: openapi
+- name: apidocs
   type: openapi
   url: "https://api.platform.sh/docs/"
   file: "openapispec-platformsh.json"
