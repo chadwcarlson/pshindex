@@ -7,6 +7,18 @@
   file: "index.json"
   destination: "output/docs.json"
 
+# Platform.sh templates via template-builder
+- name: templates
+  type: templates
+  rank: 2
+  url: "https://api.github.com/repos/platformsh/template-builder/contents/templates"
+  destination: "output/templates.json"
+  ignore:
+      - "__init__.py"
+
+# Main site
+# rank: 3
+
 # Community Site
 - name: community
   type: discourse
