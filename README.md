@@ -8,7 +8,7 @@
     ./setup.sh
     ```
 
-2. Run the Meilisearch server (`localhost:7700`):
+2. Run the Meilisearch server ([`localhost:7700`](http://localhost:7700/)):
 
     ```bash
     ./meilisearch

@@ -3,7 +3,7 @@ module github.com/chadwcarlson/pshindex
 go 1.14
 
 require (
-	github.com/chadwcarlson/gomeili v0.0.4
+	github.com/chadwcarlson/gomeili v0.0.5
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/psmithuk/svg v0.0.0-20140728192848-ba59e9250d30 // indirect

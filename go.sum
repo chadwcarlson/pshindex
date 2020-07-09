@@ -2,6 +2,8 @@ github.com/alexsasharegan/dotenv v0.0.0-20171113213728-090a4d1b5d42 h1:Mj1wcfVgY
 github.com/alexsasharegan/dotenv v0.0.0-20171113213728-090a4d1b5d42/go.mod h1:8KjIUiYilt2g1LINCCvsOtJ+f2uAdSTYO2A/b97lPw8=
 github.com/chadwcarlson/gomeili v0.0.4 h1:fIF89fmp+I1VG96vNsfbeNlebInfXov+rRLgc9B7W1w=
 github.com/chadwcarlson/gomeili v0.0.4/go.mod h1:epvV1C9An5fR8/5ZhvZC+9im9/5AL99qU4CmQKj95Pc=
+github.com/chadwcarlson/gomeili v0.0.5 h1:0kPOLN9pSTMXt95QlML1R0wZUun8zK4ARa3y8BvYTIE=
+github.com/chadwcarlson/gomeili v0.0.5/go.mod h1:epvV1C9An5fR8/5ZhvZC+9im9/5AL99qU4CmQKj95Pc=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
