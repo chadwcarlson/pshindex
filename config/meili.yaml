@@ -1,0 +1,48 @@
+index:
+  name: "Platform.sh"
+  uid: "platformsh"
+  primaryKey: "documentId"
+attributes:
+  distinct: "url"
+  displayed:
+    - "title"
+    - "text"
+    - "url"
+    - "site"
+    - "section"
+  searchable:
+    - "title"
+    - "subsections"
+    - "text"
+    - "section"
+rankingRules:
+    - "asc(rank)"
+    - "attribute"
+    - "typo"
+    - "words"
+    - "proximity"
+    - "attribute"
+    - "wordsPosition"
+    - "exactness"
+stopWords:
+    - "with"
+    - "and"
+    - "for"
+    - "without"
+    - "from"
+    - "because"
+    - "unless"
+    - "instead"
+synonyms:
+  "routes":
+    - "routes.yaml"
+  "services":
+    - "services.yaml"
+  "application":
+    - ".platform.app.yaml"
+    - "app.yaml"
+    - "applications.yaml"
+  "multi-app":
+    - "applications.yaml"
+  "regions":
+    - "public ip address"
